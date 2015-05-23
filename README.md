@@ -1,0 +1,3 @@
+# PCLikeShare
+提供好友及自身所有device之間的互傳檔案
+並能夠接收device的影片續撥
